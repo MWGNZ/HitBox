@@ -5,4 +5,4 @@ Required hardware is\
 4x M3 screws\
 1x Arduino Pro Micro\
 15x Cherry MX switches (or compatible substitutes)\
-1x USB cord\
+1x USB cord
